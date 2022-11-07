@@ -27,3 +27,5 @@ https://www.securityweek.com/us-imposes-sanctions-apt39-iranian-hackers
 https://www.zdnet.com/article/us-sanctions-iranian-government-front-company-hiding-major-hacking-operations/#ftag=RSSbaffb68
 
 https://malwaretips.com/threads/rana-android-malware-updates-allow-whatsapp-telegram-im-snooping.105577/
+
+https://www.hhs.gov/sites/default/files/iranian-threat-actors-and-healthcare.pdf
